@@ -7,8 +7,8 @@
 
 <div>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=deboraberton&count_private=true&theme=aura_dark&show_icons=true">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deboraberton&count_private=true&theme=aura_dark&show_icons=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=deboraberton&theme=aura_dark&show_icons=true">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deboraberton&theme=aura_dark&show_icons=true">
 
 </div>
 
